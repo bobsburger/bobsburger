@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobsburger
 - 👀 I’m interested in ... penetration testing  
-- 🌱 I’m currently learning ...anything and everything
+- 🌱 I’m currently learning ...anything and everything also studying Cybersecurity at SNHU
 - 💞️ I’m looking to collaborate on ... I don't have enought skills to collaborate
 - 📫 How to reach me ... @firewall03
 
